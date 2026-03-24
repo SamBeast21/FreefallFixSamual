@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 32adee89f804a44b18ab3e552772b301
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - musicSource: {instanceID: 0}
+  - SFXSource: {instanceID: 0}
+  - BonetrousleMusic: {instanceID: 0}
+  - SwordMusic: {instanceID: 0}
+  - death: {instanceID: 0}
+  - gunShot: {fileID: 8300000, guid: 54532b058fb4d4ad9869e42cde62a55c, type: 3}
+  - enemyExplosion: {fileID: 8300000, guid: 39df469b5640043c28a0980091d26328, type: 3}
+  - wallTouch: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
